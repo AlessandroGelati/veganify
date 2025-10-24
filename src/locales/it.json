@@ -7,11 +7,11 @@
     "more": "Altro"
   },
   "Footer": {
-    "credit": "Made with {heart} by {philipLink} & {jokeLink}"
+    "credit": "Fatto con il {heart} da {philipLink} & {jokeLink}"
   },
   "Check": {
     "enterbarcode": "Inserire codice a barre",
-    "submit": "Submit",
+    "submit": "Invio",
     "vegan": "Vegano",
     "vegetarian": "Vegetariano",
     "palmoil": "Olio di palma",
@@ -24,14 +24,14 @@
     "licenses_desc": "Veganify uses different databases and APIs to gather information about a product. The information is licensed under the following licenses:",
     "notindb": "This product is not in our database yet.",
     "notindb_add": "Do you want to add it?",
-    "add_food": "Add foods",
+    "add_food": "Aggiungi cibi",
     "or": "or",
     "add_cosmetic": "add cosmetics",
     "wrongbarcode": "This barcode is invalid.",
     "timeout1": "This takes longer than usual",
     "timeout2": "The request took too long. Please try again.",
-    "share": "Share",
-    "copy": "Copy",
+    "share": "Condividi",
+    "copy": "Copia",
     "on": "on"
   },
   "More": {
@@ -74,33 +74,33 @@
     "statuspage": "status page"
   },
   "Fallback": {
-    "yourareoffline": "You are offline.",
-    "needinternet": "You need an active internet connection to use Veganify.",
+    "yourareoffline": "Sei offline.",
+    "needinternet": "Hai bisogno di una connessione ad internet attiva per usare veganify.",
     "tryagain": "Try again"
   },
   "InstallPrompt": {
     "subheading": "Is it Vegan? - Veganify",
-    "install": "Install Veganify",
+    "install": "Installa Veganify",
     "get": "Get",
     "howtoinstall": "Tap on {share} then \"Add to Home Screen\"."
   },
   "ShortcutPrompt": {
     "Shortcuts": "Shortcuts",
     "openinapp": "Open in the shortcuts app",
-    "open": "Open"
+    "open": "Apri"
   },
   "Ingredients": {
     "ingredientcheck": "Vegan Ingredient Checker",
     "ingredientcheck_desc": "Check if the Ingredients of a product are vegan! – Enter ingredients comma seperated",
-    "entercommaseperated": "Enter ingredients comma seperated",
-    "submit": "Submit",
-    "vegan": "Vegan",
+    "entercommaseperated": "Inserisci gli ingredienti sperati da una virgola",
+    "submit": "Invio",
+    "vegan": "Vegano",
     "source": "Data source",
     "cannotbeempty": "Ingredients-list cannot be empty or include special characters and has to be comma seperated!",
     "licenses": "Licenses",
     "licenses_desc": "Veganify uses different databases and APIs to gather information about a product. The information is licensed under the following licenses:",
     "languagewarning": "These results may be incorrect due to translation errors or missing information. The results are translated with {deepl}.",
     "maybe_vegan": "This ingredient could contain animal products.",
-    "unknown_vegan": "We don't have information about this ingredient."
+    "unknown_vegan": "Non abbiamo informazioni riguardo questo ingrediente."
   }
 }
